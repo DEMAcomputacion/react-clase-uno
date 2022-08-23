@@ -1,6 +1,6 @@
 const nombre = 'Julián';
 
-const elemento = <div>Hola {nombre}</div>;
+const elemento = <div>Hola Pete {nombre}</div>;
 
 const app = document.getElementById('react-app');
 
